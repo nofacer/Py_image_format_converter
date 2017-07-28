@@ -7,5 +7,5 @@ python3.6(Recommended) Pillow
 
 ## Usage
 ``` shell 
-python test.py -i <inputfile> -o <outputfile> -f<format_from> -t<format_to>
+python format.py -i <inputfile> -o <outputfile> -f<format_from> -t<format_to>
 ```
